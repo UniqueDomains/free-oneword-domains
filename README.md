@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .free one-word domains from Unique
 
 **Public extract:** 7,566 rows · **Live catalog:** 7,566 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/free`  
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | nimble.free     | available | $24.99    | $59.99        | 94             | 33     | 6      | name.com     |
 | genius.free     | resell    | —         | —             | 98             | 45     | 6      | Porkbun LLC  |
 | ace.free        | premium   | $3,125    | $3,125        | 88             | 57     | 3      | name.com     |
-| ethereal.free   | available | $24.99    | $59.99        | 88             | 32     | 8      | name.com     |
+| ethereal.free   | available | $24.99    | $59.99        | 88             | 31     | 8      | name.com     |
 | drone.free      | resell    | —         | —             | 70             | 45     | 5      | Porkbun LLC  |
 | data.free       | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap    |
 | aesthetic.free  | available | $24.99    | $59.99        | 88             | 31     | 9      | name.com     |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
