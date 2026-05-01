@@ -1,10 +1,10 @@
-# Available .FREE One-Word Domains (9,976)
+# Available .FREE One-Word Domains (10,537)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C976%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C537%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .free one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,976 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,537 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,976 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,537 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/free`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | nets.free          | available | $44.98    | —             | 54             | 81     | 4      | namecheap |
 | winners.free       | premium   | $625      | —             | 60             | 81     | 7      | name.com  |
 | donuts.free        | available | $44.98    | —             | 54             | 62     | 6      | namecheap |
-| travelers.free     | premium   | $116      | $116          | 58             | 61     | 9      | namesilo  |
-| keepthechange.free | available | $44.98    | —             | 46             | 59     | 15     | namecheap |
 | farmers.free       | premium   | $125      | —             | 54             | 59     | 7      | name.com  |
-| whynot.free        | available | $44.98    | —             | 74             | 39     | 7      | namecheap |
+| keepthechange.free | available | $44.98    | —             | 46             | 59     | 15     | namecheap |
 | cars.free          | premium   | $1,250    | —             | 66             | 47     | 4      | name.com  |
-| neuroscience.free  | available | $44.98    | —             | 80             | 37     | 12     | namecheap |
-| robots.free        | premium   | $116      | $116          | 62             | 47     | 6      | namesilo  |
-| spectra.free       | available | $44.98    | —             | 62             | 34     | 7      | namecheap |
+| whynot.free        | available | $44.98    | —             | 74             | 39     | 7      | namecheap |
 | jobs.free          | premium   | $1,250    | —             | 79             | 42     | 4      | name.com  |
-| traders.free       | available | $44.98    | —             | 60             | 26     | 7      | namecheap |
+| spectra.free       | available | $44.98    | —             | 62             | 34     | 7      | namecheap |
 | shortcuts.free     | premium   | $125      | —             | 48             | 41     | 10     | name.com  |
-| Trex.free          | available | $44.98    | —             | 80             | 24     | 5      | namecheap |
+| traders.free       | available | $44.98    | —             | 60             | 26     | 7      | namecheap |
 | lets.free          | premium   | $1,250    | —             | 77             | 39     | 4      | name.com  |
-| rekt.free          | available | $44.98    | —             | 40             | 24     | 4      | namecheap |
+| Trex.free          | available | $44.98    | —             | 80             | 24     | 5      | namecheap |
 | events.free        | premium   | $625      | —             | 68             | 37     | 6      | name.com  |
+| rekt.free          | available | $44.98    | —             | 40             | 24     | 4      | namecheap |
+| homes.free         | premium   | $625      | —             | 86             | 34     | 5      | name.com  |
 | inhouse.free       | available | $44.98    | —             | 70             | 23     | 8      | namecheap |
-| aliens.free        | premium   | $116      | $116          | 56             | 35     | 6      | namesilo  |
+| tickets.free       | premium   | $625      | —             | 64             | 34     | 7      | name.com  |
+| bubbles.free       | available | $44.98    | —             | 72             | 21     | 7      | namecheap |
+| etc.free           | premium   | $3,125    | —             | 58             | 34     | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,976 live domains                               |
+| 1,000-row public sample | 10,537 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
