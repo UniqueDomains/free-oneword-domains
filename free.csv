@@ -214,6 +214,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 11be0f00-3289-405f-aed0-e88389258827,barup.free,available,44.98,,82,2,6,namecheap,,
 11c49045-33c8-469f-8f02-0e982bec3f95,manysortedlogic.free,available,44.98,,64,1,17,namecheap,,
 11e43c81-0f4e-43f8-8ac7-c5e38172800f,introduces.free,premium,125,,58,2,10,name.com,,
+11e988b1-2c1c-4509-9ac6-3f7b1462ed93,stress.free,resell,,,70,16,6,Porkbun LLC,15/05/2025 13:01,15/05/2027 13:01
 11f398b8-f956-419d-a0a4-811c996071e0,leaveon.free,available,44.98,,80,1,8,namecheap,,
 1207f5b5-6051-4248-9272-c1409d4f27b5,FinalJudgment.free,available,44.98,,54,2,14,namecheap,,
 122d78d8-425b-4287-8c1b-4a33823a9060,rehabs.free,available,38.99,38.99,51,8,6,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54e8bc4b-2c41-47d6-917d-02ab1ad22934,replied.free,premium,125,,58,4,7,name.com,,
 54fe7213-1728-49b5-9eb9-13ebe6eb5727,getonboard.free,available,44.98,,64,11,12,namecheap,,
 5502b072-36bc-4f67-b211-f082c9f37585,tickets.free,premium,625,,64,34,7,name.com,,
-550fc29a-ffe4-411c-a13d-bb5525d5aefe,whynot.free,available,44.98,,74,39,7,namecheap,,
