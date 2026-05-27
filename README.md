@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .free one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,526 domains · **Median ask:** $192.27 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/free`  
 **Best for:** founders, investors, studios
 
@@ -73,13 +73,13 @@ print(df.head())
 | cars.free          | premium   | $1,250    | —             | 66             | 47     | 4      | name.com    |
 | spectra.free       | available | $44.98    | —             | 62             | 34     | 7      | namecheap   |
 | jobs.free          | premium   | $1,250    | —             | 79             | 42     | 4      | name.com    |
-| traders.free       | available | $44.98    | —             | 60             | 26     | 7      | namecheap   |
+| traders.free       | available | $44.98    | —             | 60             | 25     | 7      | namecheap   |
 | shortcuts.free     | premium   | $125      | —             | 48             | 41     | 10     | name.com    |
 | Trex.free          | available | $44.98    | —             | 80             | 24     | 5      | namecheap   |
 | lets.free          | premium   | $1,250    | —             | 77             | 39     | 4      | name.com    |
-| rekt.free          | available | $44.98    | —             | 40             | 24     | 4      | namecheap   |
+| inhouse.free       | available | $44.98    | —             | 70             | 24     | 8      | namecheap   |
 | events.free        | premium   | $625      | —             | 68             | 37     | 6      | name.com    |
-| inhouse.free       | available | $44.98    | —             | 70             | 23     | 8      | namecheap   |
+| rekt.free          | available | $44.98    | —             | 40             | 24     | 4      | namecheap   |
 | homes.free         | premium   | $625      | —             | 86             | 34     | 5      | name.com    |
 | bubbles.free       | available | $44.98    | —             | 72             | 21     | 7      | namecheap   |
 | tickets.free       | premium   | $625      | —             | 64             | 34     | 7      | name.com    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
