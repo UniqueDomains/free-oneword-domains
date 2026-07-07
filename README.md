@@ -1,10 +1,10 @@
-# Available .FREE One-Word Domains (10,526)
+# Available .FREE One-Word Domains (10,532)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C526%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C532%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .free one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,526 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,532 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,526 domains · **Median ask:** $192.27 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,532 domains · **Median ask:** $291.85 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/free`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/free`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FREE one-word domain 
 
 ### Files
 
-- `free.csv` — public CSV extract (1,000 rows)
-- `free.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `free.csv`, public CSV extract (1,000 rows)
+- `free.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| nets.free          | available | $44.98    | —             | 54             | 81     | 4      | namecheap   |
-| stress.free        | resell    | —         | —             | 70             | 16     | 6      | Porkbun LLC |
-| winners.free       | premium   | $625      | —             | 60             | 81     | 7      | name.com    |
-| donuts.free        | available | $44.98    | —             | 54             | 62     | 6      | namecheap   |
-| farmers.free       | premium   | $125      | —             | 54             | 59     | 7      | name.com    |
-| keepthechange.free | available | $44.98    | —             | 46             | 59     | 15     | namecheap   |
-| cars.free          | premium   | $1,250    | —             | 66             | 47     | 4      | name.com    |
-| spectra.free       | available | $44.98    | —             | 62             | 34     | 7      | namecheap   |
-| jobs.free          | premium   | $1,250    | —             | 79             | 42     | 4      | name.com    |
-| traders.free       | available | $44.98    | —             | 60             | 25     | 7      | namecheap   |
-| shortcuts.free     | premium   | $125      | —             | 48             | 41     | 10     | name.com    |
-| Trex.free          | available | $44.98    | —             | 80             | 24     | 5      | namecheap   |
-| lets.free          | premium   | $1,250    | —             | 77             | 39     | 4      | name.com    |
-| inhouse.free       | available | $44.98    | —             | 70             | 24     | 8      | namecheap   |
-| events.free        | premium   | $625      | —             | 68             | 37     | 6      | name.com    |
-| rekt.free          | available | $44.98    | —             | 40             | 24     | 4      | namecheap   |
-| homes.free         | premium   | $625      | —             | 86             | 34     | 5      | name.com    |
-| bubbles.free       | available | $44.98    | —             | 72             | 21     | 7      | namecheap   |
-| tickets.free       | premium   | $625      | —             | 64             | 34     | 7      | name.com    |
-| snaps.free         | available | $44.98    | —             | 52             | 20     | 5      | namecheap   |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| aunt.free    | available | $38.99    | $38.99        | high           | low    | 4      | namesilo    |
+| animate.free | resell    | —         | —             | high           | low    | 7      | Porkbun LLC |
+| ant.free     | premium   | $3,125    | —             | high           | medium | 3      | name.com    |
+| brow.free    | available | $44.98    | —             | medium         | low    | 4      | namecheap   |
+| apt.free     | premium   | $3,125    | —             | high           | low    | 3      | name.com    |
+| calf.free    | available | $38.99    | $38.99        | high           | low    | 4      | namesilo    |
+| awe.free     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo    |
+| cane.free    | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo    |
+| bce.free     | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo    |
+| cone.free    | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo    |
+| ben.free     | premium   | $3,125    | —             | high           | medium | 3      | name.com    |
+| crab.free    | available | $38.99    | $38.99        | high           | low    | 4      | namesilo    |
+| bio.free     | premium   | $3,125    | —             | high           | medium | 3      | name.com    |
+| grin.free    | available | $38.99    | $38.99        | high           | low    | 4      | namesilo    |
+| bot.free     | premium   | $1,250    | —             | high           | medium | 3      | name.com    |
+| knot.free    | available | $38.99    | $38.99        | high           | low    | 4      | namesilo    |
+| cap.free     | premium   | $3,125    | —             | high           | low    | 3      | name.com    |
+| lava.free    | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo    |
+| cut.free     | premium   | $3,125    | $3,125        | high           | low    | 3      | name.com    |
+| melt.free    | available | $38.99    | $38.99        | high           | low    | 4      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,526 live domains                        |
+| 1,000-row public sample | 10,532 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word names on the .free extension. Examples such as lunch.free, quote.free, vigor.free, and fascinate.free show the range: concrete nouns, verbs, and more abstract brand terms. For founders, the best candidates are usually the words that are easy to say, easy to remember, and still feel credible with .free attached. For investors, the key question is whether the word has enough commercial meaning to offset the weaker market familiarity of the extension. With a median ask of $192, these domains are relatively accessible, but extension fit matters more than raw price.
+This list covers 10,532 one-word .FREE domain names, ranging from everyday nouns like tips.free and messages.free to playful compounds like turninto.free and slicedbread.free. The median asking price across the set is about $292, positioning .FREE as an accessible entry point for short, ownable one-word names. Whether you're comparing renewal costs or shortlisting a brandable pick, evaluate each name's length, clarity, and trademark risk before committing.
 
-- Prefer clean, familiar words like zone.free or ivy.free
-- Check whether .free supports or weakens brand credibility
-- Use median ask of $192 as a baseline for value
-- Avoid words that create trademark or expectation risk
+- 10,532 one-word .FREE domain names, updated daily
+- Median asking price near $292 across this list
+- Examples: superhero.free, tips.free, messages.free
+- Short, dictionary-style names suited for brandable picks
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
