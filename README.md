@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .free one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,739 domains · **Median ask:** $204.30 · **High-demand under $2,500:** 64
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/free`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| hello.free   | premium   | $1,107    | $1,107        | high           | high   | 5      | namesilo    |
+| easy.free    | premium   | $1,250    | $1,250        | high           | medium | 4      | name.com    |
+| away.free    | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo    |
 | aunt.free    | available | $38.99    | $38.99        | high           | low    | 4      | namesilo    |
 | animate.free | resell    | —         | —             | high           | low    | 7      | Porkbun LLC |
 | ant.free     | premium   | $3,125    | —             | high           | medium | 3      | name.com    |
@@ -81,9 +84,6 @@ print(df.head())
 | bot.free     | premium   | $1,250    | —             | high           | medium | 3      | name.com    |
 | knot.free    | available | $38.99    | $38.99        | high           | low    | 4      | namesilo    |
 | cap.free     | premium   | $3,125    | —             | high           | low    | 3      | name.com    |
-| lava.free    | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo    |
-| cut.free     | premium   | $3,125    | $3,125        | high           | low    | 3      | name.com    |
-| melt.free    | available | $38.99    | $38.99        | high           | low    | 4      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
