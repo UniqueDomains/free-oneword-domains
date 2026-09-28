@@ -1,10 +1,10 @@
-# Available .FREE One-Word Domains (24,440)
+# Available .FREE One-Word Domains (24,943)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C440%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C943%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .free one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,440 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,943 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,440 domains · **Median ask:** $215.77 · **High-demand under $2,500:** 63
+**Public extract:** 1,000 rows · **Live catalog:** 24,943 domains · **Median ask:** $215.82 · **High-demand under $2,500:** 65
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/free`
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | aaa.free   | premium   | $3,250    | $3,250        | high           | medium | 3      | namecheap   |
 | bmus.free  | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo    |
 | abo.free   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo    |
-| darn.free  | available | $59.99    | $59.99        | high           | low    | 4      | name.com    |
+| cohn.free  | available | $32.32    | $32.32        | medium         | low    | 4      | dynadot     |
 | afp.free   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo    |
-| doob.free  | available | $38.98    | $44.98        | medium         | low    | 4      | namecheap   |
+| darn.free  | available | $59.99    | $59.99        | high           | low    | 4      | name.com    |
 | alp.free   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo    |
-| edgy.free  | available | $38.98    | $44.98        | high           | low    | 4      | namecheap   |
+| doob.free  | available | $38.98    | $44.98        | medium         | low    | 4      | namecheap   |
 | atm.free   | premium   | $3,250    | $3,250        | high           | low    | 3      | namecheap   |
+| edgy.free  | available | $38.98    | $44.98        | high           | low    | 4      | namecheap   |
+| bjs.free   | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo    |
 | heed.free  | available | $38.98    | $44.98        | high           | low    | 4      | namecheap   |
-| bjs.free   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo    |
-| hiss.free  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo    |
 | cnn.free   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo    |
-| homy.free  | available | $38.98    | $44.98        | medium         | low    | 4      | namecheap   |
+| hiss.free  | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo    |
 | cut.free   | premium   | $3,450    | $3,450        | high           | low    | 3      | namesilo    |
-| ivry.free  | available | $38.98    | $44.98        | medium         | low    | 4      | namecheap   |
+| homy.free  | available | $38.98    | $44.98        | medium         | low    | 4      | namecheap   |
 | esp.free   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo    |
-| lapp.free  | available | $38.98    | $44.98        | high           | low    | 4      | namecheap   |
+| ivry.free  | available | $38.98    | $44.98        | medium         | low    | 4      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,440 live domains                        |
+| 1,000-row public sample | 24,943 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 63 high-demand names under $2,500          |
+| Basic exported fields   | 65 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FREE One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
